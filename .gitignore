@@ -1,0 +1,6 @@
+node_modules
+/build
+/*.log
+size-plugin.json
+size-plugin-ssr.json
+.idea/
