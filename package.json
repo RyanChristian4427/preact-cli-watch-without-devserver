@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "serve": "nodemon --watch build ./index.js localhost 3000",
-    "serve:dev": "preact watch --no-devServer --prerender"
+    "serve:dev": "preact watch --no-devServer"
   },
   "devDependencies": {
     "nodemon": "^2.0.4",
